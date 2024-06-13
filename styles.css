@@ -123,3 +123,24 @@ h3 {
     }
 }
 
+#aboutText {
+    padding: 12px;
+    width: 100%;
+    margin: 2 auto;
+    background-color: #deffde;
+    border-radius: 20px 20px 20px 20px;
+    border: 2px darkgreen;
+    border-style: dashed;
+    text-align: center;
+}
+
+#aboutTextHeader {
+    padding: 12px;
+    width: 100%;
+    margin: 2 auto;
+    background-color: #deffde;
+    font-weight: bold;
+    color: darkgreen;
+    text-align: center;
+}
+
