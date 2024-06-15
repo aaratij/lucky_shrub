@@ -58,7 +58,11 @@ article {
     text-align: center;
     margin:10px;
     padding: 14px 16px;
-    
+    background-image: url(./garden5.webp);
+    height: 100%;
+}
+.mainHeader > h3 {
+    color:white;
 }
 
 footer {
@@ -143,4 +147,28 @@ h3 {
     color: darkgreen;
     text-align: center;
 }
+
+.marqueeText {
+    overflow: hidden; 
+    position: relative;
+    font-size: 1em;
+    font-weight: bold;
+    color: darkgreen;
+    font-style: italic;
+}
+
+
+  #contact li {
+    color: darkgreen;
+    margin: 5px;
+    list-style-type: none;
+    font-weight: 200;
+  }
+
+  #contact  {
+    color: darkgreen;
+    font-weight: bold;
+  }
+
+
 
